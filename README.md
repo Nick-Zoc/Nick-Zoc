@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Naitik Joshi (Nick-Zoc)
 
-🎓 I’m a IT student living in Kathmandu, Nepal.  
+🎓 I’m a IT student at Islington College. In Kathmandu, Nepal.  
 💻 Passionate about software development, robotics, and AI.
 
 ---
